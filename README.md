@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rory Poonyth 👋
 
-<!--
-**RoryPoonyth/RoryPoonyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **4th Year Computer Engineering Student** at Concordia University  
+💻 **IT and Security Intern** at ENL & Rogers Management Services (Summer 2024)  
+🔗 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/rorypoonyth/)  
 
-Here are some ideas to get you started:
+## About Me  
+I'm passionate about leveraging technology to solve real-world problems. As a soon-to-be computer engineering graduate, I enjoy working on innovative projects, exploring cybersecurity challenges, and enhancing my programming expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests  
+- **Software Development**: Building efficient, scalable, and user-friendly solutions.  
+- **Cybersecurity**: Ensuring systems and networks are protected.  
+- **Internships & Collaborations**: Always eager to learn and grow through professional experiences.  
+
+## Current Focus  
+📚 Sharpening my skills in programming, systems design, and security fundamentals.   
